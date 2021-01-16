@@ -1,0 +1,1 @@
+create table star (id binary not null, distance_in_km bigint, name varchar(255), primary key (id))
